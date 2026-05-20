@@ -33,7 +33,7 @@ Clone the repository and assign execution permissions to your local environment:
 
 ```bash
 # Clone this repository
-git clone [https://github.com/aextecki/swatchdog.git](https://github.com/aextecki/swatchdog.git)
+git clone https://github.com/aextecki/swatchdog.git
 
 # Enter the directory
 cd swatchdog
